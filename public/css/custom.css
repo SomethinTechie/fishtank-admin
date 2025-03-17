@@ -1,0 +1,38 @@
+/* Custom styles */
+.auth-card {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.auth-header {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #4a90e2;
+    border-color: #357abd;
+}
+
+.btn-primary:hover {
+    background-color: #357abd;
+    border-color: #2e6da4;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    color: #333 !important;
+}
+
+.nav-link {
+    color: #666 !important;
+}
+
+.nav-link:hover {
+    color: #4a90e2 !important;
+}
